@@ -9,10 +9,7 @@ This repository contains my Java solutions for LeetCode problems.
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 1 |
-| Strings | 0 |
-| Linked List | 0 |
-| Trees | 0 |
-| Graphs | 0 |
+| Arrays | 2 |
 
-**Total Solved:** 1
+
+**Total Solved:** 2
