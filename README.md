@@ -9,7 +9,7 @@ This repository contains my Java solutions for LeetCode problems.
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 3 |
+| Arrays | 4 |
 
 
-**Total Solved:** 3
+**Total Solved:** 4
