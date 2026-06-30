@@ -35,6 +35,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0007-reverse-integer](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +80,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -107,9 +111,14 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
