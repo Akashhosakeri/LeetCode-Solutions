@@ -31,11 +31,13 @@ This repository contains my Java solutions for LeetCode problems.
 | [0118-pascals-triangle](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -89,4 +91,8 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
