@@ -22,6 +22,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0002-add-two-numbers](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +56,8 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
