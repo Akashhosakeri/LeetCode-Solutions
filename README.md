@@ -36,6 +36,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
