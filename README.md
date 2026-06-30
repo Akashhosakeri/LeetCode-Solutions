@@ -29,6 +29,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |
