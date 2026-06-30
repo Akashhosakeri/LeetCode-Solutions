@@ -34,6 +34,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0056-merge-intervals](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +111,5 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
