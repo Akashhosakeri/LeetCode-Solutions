@@ -23,6 +23,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,12 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
