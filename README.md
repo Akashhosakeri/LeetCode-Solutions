@@ -20,6 +20,7 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,12 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
