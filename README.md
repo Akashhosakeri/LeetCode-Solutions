@@ -24,6 +24,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +71,8 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
