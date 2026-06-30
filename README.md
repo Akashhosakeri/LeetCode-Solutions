@@ -26,10 +26,12 @@ This repository contains my Java solutions for LeetCode problems.
 | [0053-maximum-subarray](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +67,7 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
