@@ -32,6 +32,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0119-pascals-triangle-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
