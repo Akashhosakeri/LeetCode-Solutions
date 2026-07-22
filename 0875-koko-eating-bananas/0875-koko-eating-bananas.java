@@ -1,7 +1,7 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-
         int max = 0;
+
         for (int pile : piles) {
             max = Math.max(max, pile);
         }
@@ -13,9 +13,9 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            long totalHours = calcTotalHours(piles, mid);
+            long totalH = totalHours(piles, mid);
 
-            if (totalHours <= h) {
+            if (totalH <= h) {
                 ans = mid;
                 high = mid - 1;
             } else {
@@ -26,11 +26,11 @@ class Solution {
         return ans;
     }
 
-    private long calcTotalHours(int[] piles, int speed) {
+    long totalHours(int[] piles, int speed) {
         long totalH = 0;
 
-        for (int bananas : piles) {
-            totalH += (bananas + speed - 1L) / speed;
+        for (int pile : piles) {
+            totalH += (pile + speed - 1) / speed;
         }
 
         return totalH;
