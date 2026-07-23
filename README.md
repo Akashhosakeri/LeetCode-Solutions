@@ -150,4 +150,8 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
