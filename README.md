@@ -22,6 +22,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -84,6 +85,7 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
