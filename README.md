@@ -175,4 +175,5 @@ This repository contains my Java solutions for LeetCode problems.
 | [1661-average-time-of-process-per-machine](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
