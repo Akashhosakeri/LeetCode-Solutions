@@ -45,6 +45,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0136-single-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +151,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
