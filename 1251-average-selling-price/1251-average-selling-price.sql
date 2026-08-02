@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 SELECT Prices.product_id,
-       ROUND(IFNULL(SUM(UnitsSold.units * Prices.price) / SUM(UnitsSold.units), 0), 2) AS average_price
+ROUND(IFNULL(SUM(Prices.price*UnitsSold.units)/SUM(UnitsSold.units),0),2) AS average_price
 FROM Prices
 LEFT JOIN UnitsSold
 ON Prices.product_id = UnitsSold.product_id
