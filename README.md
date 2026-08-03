@@ -189,4 +189,8 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
