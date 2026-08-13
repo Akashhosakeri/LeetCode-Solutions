@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int left = 0;
         int right = 0;
-        int maxlen = 0;
+        int maxLen = 0;
         int zeros = 0;
         while(right < n){
             if(nums[right] == 0) zeros++;
@@ -13,10 +13,10 @@ class Solution {
             }
             if(zeros <= k){
                 int len = right - left + 1;
-                maxlen = Math.max(len,maxlen);
+                maxLen = Math.max(len,maxLen);
             }
             right++;
         }
-        return maxlen;
+        return maxLen;
     }
 }
