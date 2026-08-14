@@ -15,6 +15,6 @@ class Solution {
             }
             right++;
         }
-        return ans == Integer.MAX_VALUE?0:ans;
+        return ans==Integer.MAX_VALUE?0:ans;
     }
 }
