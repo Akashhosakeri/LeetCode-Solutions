@@ -86,10 +86,12 @@ This repository contains my Java solutions for LeetCode problems.
 | [0069-sqrtx](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0118-pascals-triangle](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -231,4 +234,8 @@ This repository contains my Java solutions for LeetCode problems.
 | [0904-fruit-into-baskets](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
