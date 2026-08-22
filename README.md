@@ -71,6 +71,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -100,6 +101,7 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0169-majority-element](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
