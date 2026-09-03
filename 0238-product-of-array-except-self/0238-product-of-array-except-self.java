@@ -13,7 +13,7 @@ class Solution {
             suff[i] = suff[i+1]*nums[i+1];
         }
         for(int i=0;i<n;i++){
-            res[i] = pref[i]*suff[i];
+            res[i] = pref[i]*suff[i];       
         }
         return res;
     }
