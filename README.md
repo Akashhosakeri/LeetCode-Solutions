@@ -27,6 +27,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -69,6 +70,7 @@ This repository contains my Java solutions for LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -140,6 +142,7 @@ This repository contains my Java solutions for LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
