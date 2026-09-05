@@ -109,6 +109,7 @@ This repository contains my Java solutions for LeetCode problems.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ This repository contains my Java solutions for LeetCode problems.
 | [0042-trapping-rain-water](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akashhosakeri/LeetCode-Solutions/tree/master/0283-move-zeroes) |
